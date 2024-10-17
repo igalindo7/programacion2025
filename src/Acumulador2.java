@@ -20,7 +20,6 @@ public class Acumulador2 {
             System.out.println("Total impares: " + totalImpares);
         }
     }
-
 }
 
 
