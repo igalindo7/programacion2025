@@ -1,7 +1,4 @@
 package tema2;
-
-import java.util.Scanner;
-
 public class Ejemplofor {
     public static void main(String[] args) {
         //pintar 1 al 10
@@ -121,4 +118,7 @@ import java.util.Scanner;
 
 
 
-
+}
+}
+                     */
+}}
