@@ -13,6 +13,6 @@ public class contadorBucles {
         }
 
         System.out.println("El total es " + total);
-
+        System.out.println("hellooou");
     }
 }
