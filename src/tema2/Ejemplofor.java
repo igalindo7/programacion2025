@@ -111,7 +111,7 @@ import java.util.Scanner;
              System.out.println(i + "x4" + i * 4);
         }
 
-
+ prueba
 
 
 
